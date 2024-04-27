@@ -106,8 +106,9 @@ html{
     padding-top: 80px;
 }
 .about-section{
-    padding-top: 50px;
     padding: 70px;
+    padding-top: 50px;
+   
     display: flex;
     justify-content: space-between;
    
