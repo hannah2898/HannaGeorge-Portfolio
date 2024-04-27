@@ -15,7 +15,13 @@
     height: 100%;
     font-feature-settings: "ss02", "ss08";
     font-family: Aeonik, 'Source Han Sans JP', Arial, Helvetica, sans-serif;
-    color: white;
+    
+}
+.index{
+  color: #fff;
+}
+.h1{
+  color: black;
 }
 :root {
     --color-bg1: rgb(108, 0, 162);

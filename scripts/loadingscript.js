@@ -88,10 +88,7 @@ gsap.to(".loading-screen",{
     duration:0.5,
     delay:7.5,
     ease:"power1.inOut",
-    onComplete: function() {
-        document.querySelector('.index').style.display = 'block';
-        gsap.to('.index', { opacity: 1, duration: 0.8 });
-    }
+    
 });
 gsap.to("h1",1.5,{
     delay:7,
@@ -100,6 +97,9 @@ gsap.to("h1",1.5,{
     stagger:{
         amount:0.1,
     },
-
+    onComplete: function() {
+        document.querySelector('.index').style.display = 'block';
+        gsap.to('.index', { opacity: 1, duration: 0.8 });
+    }
 }
 );

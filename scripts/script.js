@@ -4,7 +4,7 @@
         reset: true,
         distance: '80px',
         duration: 2500,
-        delay: 400
+        delay: 200
     });
 
     // Define a function to re-initialize ScrollReveal animations for the project section
