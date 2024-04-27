@@ -328,7 +328,7 @@ border-radius: 10px;
 }
 .textbox{
     z-index: 222;
-    background: linear-gradient(45deg, rgba(69, 161, 247, 0.5), rgba(165, 92, 255, 0.5));
+    background: linear-gradient(45deg, rgba(69, 161, 247, 0.75), rgba(165, 92, 255, 0.75));
     backdrop-filter: blur(20px);
     padding: 40px;
     max-width: 400px;
@@ -338,7 +338,7 @@ border-radius: 10px;
 }
 .project-content .text-box{
     z-index: 222;
-    background: linear-gradient(45deg, rgba(69, 161, 247, 0.5), rgba(165, 92, 255, 0.5));
+    background: linear-gradient(45deg, rgba(69, 161, 247, 0.75), rgba(165, 92, 255, 0.75));
     backdrop-filter: blur(20px);
     padding: 40px;
     max-width: 400px;
