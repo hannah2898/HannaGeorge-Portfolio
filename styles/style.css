@@ -528,7 +528,7 @@ button img{
 @media screen and (max-width: 768px) {
     
     .gradient-bg {
-        width: 60vh;
+        width: 70vh;
         height: 485vh;
     }
     .index-content{
@@ -540,7 +540,7 @@ button img{
     .container{
         margin-left: 40px;
         margin-top: 30px;
-        width: 350px;
+        width: 425px;
         height: 750px;
     }
     .Logo p{
@@ -591,6 +591,10 @@ button img{
         font-size: 60px;
     }
     /* PROJECT SECTION */
+    .h1 h1{
+        font-size: 50px;
+        margin-left: 150px;
+    }
     .projects{
         margin-left: 160px;
         padding: 20px;
@@ -607,6 +611,7 @@ button img{
    .project-title{
     font-size: 60px;
     margin-bottom: 20px;
+    margin-left: 50px;
    }
    .nextbutton{
     display: none;
